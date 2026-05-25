@@ -1,0 +1,13 @@
+{
+    "HelloWorld": {
+        "中文意思": "你好世界",
+        "出处": "《The C Programming Language》的第一个演示程序",
+        "字符长度": 10,
+        "相关语言": [
+            "Python",
+            "C",
+            "C++",
+            "etc"
+        ]
+    }
+}

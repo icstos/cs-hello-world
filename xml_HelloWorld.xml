@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<o>
+     <HelloWorld class="object">
+          <中文意思 type="string">你好世界</中文意思>
+          <出处 type="string">《The C Programming Language》的第一个演示程序</出处>
+          <字符长度 type="number">10</字符长度>
+          <相关语言 class="array">
+               <e type="string">Python</e>
+               <e type="string">C</e>
+               <e type="string">C++</e>
+               <e type="string">etc</e>
+          </相关语言>
+     </HelloWorld>
+</o>
